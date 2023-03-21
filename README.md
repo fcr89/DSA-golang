@@ -1,1 +1,1 @@
-# Data structure with golang 
+# Data structures with golang 
